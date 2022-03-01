@@ -9,3 +9,5 @@ Tips:
 
 The game currently is in very early development phase, some sub systems are not finished but functional, while some are yet implemented. 
 Expect Bugs, a lot of them.
+
+Please report any bugs or Feedback in Issues
